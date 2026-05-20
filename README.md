@@ -1,6 +1,6 @@
 # SAP Data Validation & Process Improvement Project
 
-**Period:** April – May 2025  
+**Period:** April - May 2025  
 **Tools:** SAP SD (VA03 / ME21N / VK13) | Python (pandas, openpyxl) | Excel | Power Query  
 
 ---
